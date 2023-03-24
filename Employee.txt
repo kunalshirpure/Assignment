@@ -1,0 +1,38 @@
+import java.util.Scanner;
+public class Employee
+{
+	Scanner sc=new Scanner(System.in);
+    static int empId;
+	int balance;
+	String f;
+	String L;
+	static int count=100;
+	
+    Employee(String a,String b,int c)
+    {
+    	 count = count+1;
+ 	     empId = count;
+         balance=c;
+    	 f=a;
+    	 L=b;
+    }
+   
+	void disp()
+    {
+		System.out.println("Employee ID :"+empId);
+    	System.out.println("Basic Salary ="+balance);
+    	System.out.println("First Name = "+f);
+    	System.out.println("Last Name = "+L);
+    	System.out.println("\n");
+    }
+     public static void main(String args[])
+    {
+    	// Employee A=new Employee();
+	     Employee E=new Employee("Kunal","Shirpure",121);
+    	E.disp();
+    	Employee F=new Employee("Rati Shankar","Shukla",235);
+    	F.disp();
+    	Employee G=new Employee("Sumaa","Vassi",252);
+    	G.disp();
+    }
+}
