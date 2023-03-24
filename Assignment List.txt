@@ -1,0 +1,92 @@
+
+
+	Notebook 
+
+	// set path
+
+
+	1) write a code to check prime number using class and methods - done
+
+	2)  write a program for fibonacci series to n number - done
+
+	3)  Create Calculator Program 
+		acceptData()
+		addition()
+		subtraction().
+		division()
+		multiplication()
+
+	after accepting data take choice from user and display required output -done
+
+	4)  write a program to show even number within range accepted from user - done
+
+	5)  Find the factorial of a numbers-done
+	6) Check if a number is palindrome or not
+
+	7) Find square root of a number without sqrt method-done
+	8) Check Armstrong number-done
+
+	9)Calculate compound interest
+	10) Calculate power of a number-DONe
+	11) Swap two numbers-done
+	12) Calculate area of rectangle-done
+
+1) Create class Student 
+
+	with 3 variables of int  to accept marks 
+	name
+
+	method to calculate percentage and display grade of Student 
+
+2) Create class Employee 
+	
+	int empId;
+	float basicSal;
+	String firstName , lastName;
+
+	write 1) default Construtor 
+	          2)  parametrised Construtor with 2 , 4 parameters
+
+	Write AcceptData and ShowData Methods 
+	
+	Create Employee Object and call methods
+		
+
+
+1) write  a java program to find nth prime number 
+
+2) write  a java program to display altrnate prime numbers between 1 to 100
+
+3) write a program to accept 10 numbers from user and display smallest and 
+largest number between them 
+
+4)Write a program to find GCD of 2 numbers using for loop and while loop 
+
+	  Example: Find the GCF of 12 and 8.
+
+	Solution:
+
+	Factors of 12: 1, 2, 3, 4, 6, 12
+
+	Factors of 8: 1, 2, 4, 8
+
+	Common Factors: 1, 2, 4
+
+	Greatest Common Factor: 4
+
+
+5) Write a program to check entered number is perfect square or not 
+
+
+6) Write a program to display even numbers between 1 to 11 
+	Using Java for Loop
+	Using nested-if Statement
+	Using while Loop
+
+7) Write a program to display  sum of n numbers 
+	Using Java for Loop
+	Using Java while Loop
+	Using Function
+	Using Java For each loop 
+
+8) accept 4 digits number from user and display in words
