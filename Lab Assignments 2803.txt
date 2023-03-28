@@ -1,0 +1,55 @@
+
+	Concepts  -  Array of Object 
+
+Use same class Account which created in preious lab but perform all operations on array of Account Objects 
+
+create Array of 5 elements 
+	
+1) create class Account 
+
+	int accId ,  pin 
+	String name 
+	float balance
+	static int iRate
+
+
+	with following functions
+
+		Display Menu 
+
+		1. Create Account 
+		2. Display Information of Account 
+		3 . serachAccount
+		4. update Account Information   -  like name , pin 
+		5 . delete Account Information 
+		6 . serachAccount and display Information 
+			8. exit
+
+	include all concepts here 
+		1) Constructor Overloading 
+		2) this , static 
+		3) instance /  static methods 
+		4) Array of Objects 
+
+
+
+
+2) Accpt name from user   - Use String Class from java Doc
+
+	https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+	1) display message to user Hello <name> [upper case]
+		
+	2)  display message to user Hello <name> [lower case]
+	3) check your name starts with A then display that message
+		name starts with A 
+	4) check name ends with G then display message 
+		name ends with G 
+
+
+
+
+
+
+
+			
