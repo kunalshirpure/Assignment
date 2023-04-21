@@ -1,0 +1,109 @@
+Document System Requirement Specification Document 
+Title : Syetem REquirement specification for Taxi Booking Specification.
+
+Team :
+    Customer, Driver, Owner, Adminstration for Payment handling, Customer and Driver support administation,Vehical 
+	Managing administation.
+
+Objective: 
+     
+	The main objective of an online taxi booking application is to provide a convenient and efficient 
+	way for users to book and manage their taxi rides. Here are some specific objectives that an online 
+	taxi booking application might aim to achieve:
+	Seamless booking experience, Real-time tracking, Secure payment, Driver and Customer Safety ,Efficient ride 
+    Sceduling.
+
+Scope :
+     This System allows to customer and Taxi Driver to connect in efficient way. customer can check review of driver
+	 and his vehical and according to that he can book a ride and cancle it. Administaration will be able to manage Payement issues
+	 Technical issues and also the List of drivers and vehical accoring to their repective department.
+	 the owenrss with car can rent their car easily.
+	 
+	 
+Requirement:
+     Functional Requirement
+	      The functional requirements of an online taxi booking application refer to the specific features and
+		  functionalities that the application must have in order to fulfill its purpose of enabling users to 
+		  book and manage their taxi rides. Some of the key functional requirements of an online taxi booking 
+		  application include:
+
+     User registration and authentication: The application should allow users to create an account and sign in securely. 
+     User authentication can be achieved through a variety of methods, such as email and passwordor two factor 
+	 authentication.
+
+     Taxi booking and scheduling: The application should allow users to book a ride by specifying their pickup and 
+     drop-off locations, selecting a vehicle type, and choosing a payment method. Users should also be able to 
+	 schedule rides in advance for a later date or time.
+	  
+	 Real-time tracking and monitoring of taxis: The application should enable users to track the location of 
+     their taxi in real-time and receive notifications about its arrival. Drivers should also be able to view 
+     the location of the user and navigate to their pickup location.
+
+     Payment processing and billing: The application should provide a secure and reliable payment system that 
+     enables users to pay for their rides using various payment methods such as UPI and cash. The application
+ 	 should generate a receipt and send it to the user's email.
+
+     Feedback and rating system: The application should include a feedback and rating system that allows users 
+     to rate their driver and provide feedback on their experience. Drivers should also be able to rate the user 
+     and provide feedback on their behavior during the ride.  
+
+     
+	 
+	 
+	 Driver management: The application should enable drivers to manage their schedules and accept ride requests.
+     The application should also include a driver rating system to ensure that only qualified and reliable drivers
+     are available to users.
+
+     Customer support: The application should provide a responsive and helpful customer support team that can 
+     assist users with any questions or issues they may encounter during the booking process.
+
+
+
+
+     Admin dashboard: The application should include an admin dashboard that enables administrators to manage 
+     the application's operations, including user accounts, ride requests, payments, and driver management.
+	 
+	 
+	 
+
+
+ 
+
+
+
+NonFunctional Requirement:
+
+	Security
+	  The application should be designed with security in mind, with measures in place to protect Customers personal
+	  details and payment information. The application should also include safety features such as driver identity 
+	  verification and emergency contact options.
+	  
+	Reliability: 
+	  The application should be reliable, with minimal errors or downtime. The application should also beable to 
+	  recover quickly from any issues that do arise.
+
+    Security:
+   	  The application should be designed with security in mind, with measures in place to protect user data
+      and payment information. The application should also include safety features such as driver identity verification 
+	  and emergency contact options.
+
+    Usability:
+      The application should be easy to use and navigate, with an intuitive interface that enables users 
+	  to quickly book and manage their rides. The application should also be accessible to users with disabilities.
+
+    Compatibility:
+   	  The application should be compatible with a variety of devices and operating systems, including 
+	    smartphones, tablets, and desktop computers.
+
+    Availability: 
+	  The application should be available 24/7, with minimal downtime for maintenance or upgrades.
+
+    Maintainability:
+       	The application should be easy to maintain and update, with a modular design that allows for easy changes and 
+		upgrades to specific features.
+
+    Accessibility: 
+	    The application should be designed to be accessible to users with disabilities, with features such
+	     as text-to-speech, screen readers, and high-contrast modes.
+ 
+ 
